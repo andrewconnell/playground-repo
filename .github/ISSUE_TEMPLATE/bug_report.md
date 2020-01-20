@@ -1,6 +1,6 @@
 ---
 name: Bug / error report
-about: Submit a bug or error report
+about: Submit a bug or error report.
 title: ''
 labels: 'Needs: Triage'
 assignees: ''
@@ -11,29 +11,28 @@ assignees: ''
 - [x] Bug
 
 ## Describe the bug
-A clear and concise description of what the bug is.
+> _(delete this line before submitting)_: Provide a clear & concise description of what the bug is. Please follow our guidance on [How To Create Good Issues](https://github.com/sharepoint/playground-repo/wiki/How-to-Create-Good-Issues) which explains how to apply formatting, adding references & resources, screenshots, etc.
 
 ## Steps to reproduce
-Steps to reproduce the behavior:
+> _(delete this line before submitting)_ Provide steps to reproduce the behavior:
+
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Click on '....'
+1. Scroll down to '....'
+1. See error
 
 ## Expected behavior
-A clear and concise description of what you expected to happen.
-
-## Screenshots
-If applicable, add screenshots to help explain your problem.
+> _(delete this line before submitting)_: Provide clear & concise description of what you expected to happen.
 
 ## Developer environment
-*(please complete the following, if ignored you'll be prompted for it before we can triage your issue)*
- - OS: [e.g. Windows 10, MacOS 10.15.1]
- - Node.js: [e.g. v6, v8, v10, v12]
+> _(delete this line before submitting)_: Complete the following (*if ignored you'll be prompted for it before we can address your issue... save the time and provide it in your initial submission*).
+
+ - OS: [e.g. Windows 10, MacOS 10.15.x]
+ - Framework: [e.g. .NET Framework v3.x, .NET Core v3.x, Node.js v6/v8/v10/v12]
  - Browser(s) [e.g. Chrome v79, Safari v22, FireFox v31, IE v11, Edge, Chromium Edge v79]
  - Tooling: [e.g. VS Code, SPFx v1.10.0, Visual Studio 2019] 
 
 ### Additional context
-Add any other context about the problem here.
+> _(delete this line before submitting)_: Provide any other context about the problem.
 
 *Thanks for your contribution! Sharing is caring.*
