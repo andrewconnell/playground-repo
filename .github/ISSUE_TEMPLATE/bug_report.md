@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug / error report
+about: Submit a bug or error report
 title: ''
 labels: 'Needs: Triage'
 assignees: ''
