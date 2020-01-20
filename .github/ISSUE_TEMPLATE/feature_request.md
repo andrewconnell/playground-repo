@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea or feature request. NOTE: feature requests should be submitted to the SP Dev UserVoice site (linked below). Feature requests submitted as issues will be automatically closed.
+about: Suggest an idea or feature request. Feature requests should be submitted to the SP Dev UserVoice site (linked below). Feature requests submitted as issues will be automatically closed.
 title: ''
 labels: type:uservoice-request
 assignees: ''
