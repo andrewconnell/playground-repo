@@ -11,10 +11,10 @@ assignees: ''
 - [x] Bug
 
 ## Describe the bug
-> _(delete this line before submitting)_: Provide a clear & concise description of what the bug is. Please follow our guidance on [How To Create Good Issues](https://github.com/sharepoint/playground-repo/wiki/How-to-Create-Good-Issues) which explains how to apply formatting, adding references & resources, screenshots, etc.
+> **DELETE THIS LINE BEFORE SUBMITTING** - Provide a clear & concise description of what the bug is. Please follow our guidance on [How To Create Good Issues](https://github.com/sharepoint/playground-repo/wiki/How-to-Create-Good-Issues) which explains how to apply formatting, adding references & resources, screenshots, etc.
 
 ## Steps to reproduce
-> _(delete this line before submitting)_ Provide steps to reproduce the behavior:
+> **DELETE THIS LINE BEFORE SUBMITTING** - Provide steps to reproduce the behavior:
 
 1. Go to '...'
 1. Click on '....'
@@ -22,10 +22,10 @@ assignees: ''
 1. See error
 
 ## Expected behavior
-> _(delete this line before submitting)_: Provide clear & concise description of what you expected to happen.
+> **DELETE THIS LINE BEFORE SUBMITTING** - Provide clear & concise description of what you expected to happen.
 
 ## Developer environment
-> _(delete this line before submitting)_: Complete the following (*if ignored you'll be prompted for it before we can address your issue... save the time and provide it in your initial submission*).
+> **DELETE THIS LINE BEFORE SUBMITTING** - Complete the following (*if ignored you'll be prompted for it before we can address your issue... save the time and provide it in your initial submission*).
 
  - OS: [e.g. Windows 10, MacOS 10.15.x]
  - Framework: [e.g. .NET Framework v3.x, .NET Core v3.x, Node.js v6/v8/v10/v12]
@@ -33,6 +33,6 @@ assignees: ''
  - Tooling: [e.g. VS Code, SPFx v1.10.0, Visual Studio 2019] 
 
 ### Additional context
-> _(delete this line before submitting)_: Provide any other context about the problem.
+> **DELETE THIS LINE BEFORE SUBMITTING** - Provide any other context about the problem.
 
 *Thanks for your contribution! Sharing is caring.*
