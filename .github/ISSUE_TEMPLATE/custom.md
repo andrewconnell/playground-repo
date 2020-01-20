@@ -13,13 +13,13 @@ assignees: ''
 - [ ] Additional article idea
 - [x] Checked items have no spaces between the <kbd>[</kbd><kbd>]</kbd> (*delete this line*)
 
-## Expected or Desired Behavior
+## Expected / desired behavior
 
 > If you are reporting a bug, please describe the expected behavior. If you are suggesting an enhancement please describe thoroughly the enhancement, how it can be achieved, and the expected benefit.
 >
 > _(DELETE THIS PARAGRAPH BEFORE SUBMITTING)_
 
-## Observed Behavior
+## Observed behavior
 
 > If you are reporting a bug, please describe the behavior you expected to occur when performing the action.
 >
@@ -31,14 +31,21 @@ assignees: ''
 >
 > _(DELETE THIS PARAGRAPH BEFORE SUBMITTING)_
 
-## Submission Guidelines
+## Environment details
+*(please complete the following, if ignored you'll be prompted for it before we can triage your issue)*
 
-> - All suggestions or bugs are welcome, please let us know what's on your mind.
-> - If you are reporting an issue around any of the documents or articles, please ensure that you have clear > reference on the specific file or URL, which should be fixed.
-> - If you have technical questions about the framework, we’ll be monitoring #spfx, #spfx-webparts, and > #spfx-tooling on (SharePoint StackExchange)[http://sharepoint.stackexchange.com/]. You can also > alternatively submit your question to (SharePoint Developer group)> [https://network.office.com/t5/SharePoint-Developer/bd-p/SharePointDev] at Office Network.
+- OS: [e.g. Windows 10, MacOS 10.15.1]
+- Node.js: [e.g. v6, v8, v10, v12]
+- Browser(s) [e.g. Chrome v79, Safari v22, FireFox v31, IE v11, Edge, Chromium Edge v79]
+- Tooling: [e.g. VS Code, SPFx v1.10.0, Visual Studio 2019] 
+ 
+## Submission guidelines (delete this section before submitting)
+
+> - All suggestions or bugs are welcome!
+> - Follow our guidance on [How To Create Good Issues](https://github.com/sharepoint/playground-repo/wiki/How-to-Create-Good-Issues)
+> - If you are reporting an issue around any of the documents or articles, please ensure that you have referenced the specific file or URL of the related document
+> - If you have technical questions about the framework, we monitor the tags #spfx, #spfx-webparts, and #spfx-tooling on [SharePoint StackExchange](http://sharepoint.stackexchange.com)
 > - Remember to include sufficient details and context.
-> - If you have multiple suggestions or bugs please submit them in separate bugs so we can track resolution.
->
-> _(DELETE THIS PARAGRAPH BEFORE SUBMITTING)_
+> - If you have multiple suggestions or bugs, please submit them in separate issues
 
 *Thanks for your contribution! Sharing is caring.*
